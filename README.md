@@ -1,9 +1,10 @@
-# Hexall-DMPS
+# Heimdall
+by Hexall Tech
 
-# Microsoft codefundo++ project
 
-PROJECT HEXALL DMPS :A Natural disaster prediction and warning system.
-Short Note:
+PROJECT Heimdall :A Natural disaster prediction and warning system by Hexall Tech.
+
+# Short Note:
 
 Team members: Rajat Shenoy ,Avi Solanki ,Roshan Jacob.
 
