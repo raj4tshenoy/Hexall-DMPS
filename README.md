@@ -6,7 +6,7 @@ PROJECT Heimdall :A Natural disaster prediction and warning system by Hexall Tec
 
 # Short Note:
 
-Team members: [Rajat Shenoy](https://github.com/raj4tshenoy) ,[Avi Solanki](https://github.com/Avi-141) ,Roshan Jacob.
+Team members: [Rajat Shenoy](https://github.com/raj4tshenoy) ,[Avi Solanki](https://github.com/Avi-141) ,[Roshan Jacob](https://github.com/roshan1999).
 
 # Goal :
 To predict the probability of occurence of an Aftershock with 80% or more accuracy and to cater to the needs of the people affected by the disaster through our app or SMS.
