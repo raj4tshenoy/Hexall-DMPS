@@ -29,5 +29,5 @@ ujson==1.35
 urllib3==1.23
 Flask==0.12.2
 pip==18.1
-Jinja2==2.10
+Jinja2==2.11.3
 twilio==2018.6
